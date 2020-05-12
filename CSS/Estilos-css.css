@@ -1,0 +1,33 @@
+body {
+	background-image: url(https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555428497/shape/mentalfloss/4hjh3kj634.png);
+	background-size: auto 50vh;
+	font-family: Times New Roman;
+	height: 100vh
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.menu {
+	background-color: cyan ;
+}
+
+.menu ul {
+	display: flex;
+	justify-content: space-around;
+}
+
+.menu li {
+	list-style: none;
+}
+
+.site-title,
+.site-subtitle {
+	color: purple;
+	text-align: center;
+}

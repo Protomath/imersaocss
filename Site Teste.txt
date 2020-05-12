@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta="utf-8">
+		<title>André M. S.</title>
+	</head>
+	<body>
+		<img src="https://vignette.wikia.nocookie.net/zelda/images/5/57/Breath_of_the_Wild_Artwork_Link_%28Official_Artwork%29.png/revision/latest?cb=20160623185226" alt="Imagem de teste">
+		<h1> André Matos de Souza </h1>
+
+		<h2> Aluno do programa de Doutorado em Matemática Aplicada do IME-USP</h2>
+		<p> Olá, sou André, bacharel em Matemática Aplicada pela UFAM e mestre em Matemática pela UFAM. Nesta página vou buscar divulgar um pouco do que pesquiso e do que parecesse ser matematicamente interessante no momento.</p>
+		<h3>Matérias matriculadas</h3>
+		<ul> 
+			<li> Métodos Variacionais </li>
+			<li> Análise Numérica </li>
+		</ul>
+		<h3>Trabalhos Anteriores</h3>
+		<ul>
+			<ol><a href="https://proceedings.sbmac.org.br/sbmac/article/view/1760">CNMAC 2017: Fundamentos matemáticos da progrmação linear</ol>
+			<ol><a href="https://tede.ufam.edu.br/handle/tede/7751"> TCC: Estabilização de sistemas de circuito fechado</ol>
+			
+	
+	</body>
+</html>
